@@ -1,1 +1,1 @@
-{"root":["./_1printname.ts","./_2sumoftwonumber.ts","./_3islegal.ts","./_4callbackfunction.ts","./a.ts"],"version":"5.6.2"}
+{"root":["./src/_1printname.ts","./src/_2sumoftwonumber.ts","./src/_3islegal.ts","./src/_4callbackfunction.ts","./src/_5interfacesislegalprogram.ts","./src/a.ts"],"version":"5.6.2"}
